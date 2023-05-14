@@ -1,0 +1,169 @@
+entity,code,waste
+Albania,ALB,73364
+Algeria,DZA,1898343
+Angola,AGO,528843
+Antigua and Barbuda,ATG,22804
+Argentina,ARG,2753550
+Aruba,ABW,9352
+Australia,AUS,900658
+Bahamas,BHS,51364
+Bahrain,BHR,59785
+Bangladesh,BGD,1888170
+Barbados,BRB,58164
+Belgium,BEL,318151
+Belize,BLZ,20191
+Benin,BEN,144382
+Bermuda,BMU,5990
+Bosnia and Herzegovina,BIH,195633
+Brazil,BRA,11852055
+British Virgin Islands,VGB,2504
+Brunei,BRN,3688
+Bulgaria,BGR,415707
+Cambodia,KHM,344698
+Cameroon,CMR,335305
+Canada,CAN,1154309
+Cape Verde,CPV,11919
+Cayman Islands,CYM,5106
+Channel Islands,OWID_CIS,14678
+Chile,CHL,738106
+China,CHN,59079741
+Colombia,COL,2413455
+Comoros,COM,50599
+Congo,COG,110479
+Costa Rica,CRI,428029
+Cote d'Ivoire,CIV,766988
+Croatia,HRV,406347
+Cuba,CUB,368154
+Curacao,CUW,13678
+Cyprus,CYP,100713
+Democratic Republic of Congo,COD,1059795
+Denmark,DNK,95171
+Djibouti,DJI,31999
+Dominica,DMA,3885
+Dominican Republic,DOM,520238
+Ecuador,ECU,801321
+Egypt,EGY,5464471
+El Salvador,SLV,330763
+Equatorial Guinea,GNQ,49990
+Eritrea,ERI,72120
+Estonia,EST,85534
+Faeroe Islands,FRO,4466
+Fiji,FJI,59324
+Finland,FIN,458084
+France,FRA,4557128
+French Polynesia,PYF,24634
+Gabon,GAB,32329
+Gambia,GMB,29646
+Georgia,GEO,97443
+Germany,DEU,14476561
+Ghana,GHA,357877
+Gibraltar,GIB,3053
+Greece,GRC,811858
+Greenland,GRL,5234
+Grenada,GRD,12417
+Guam,GUM,14666
+Guatemala,GTM,1495229
+Guinea,GIN,118196
+Guinea-Bissau,GNB,30666
+Guyana,GUY,159681
+Haiti,HTI,328487
+Honduras,HND,565317
+Hong Kong,HKG,1020406
+Iceland,ISL,32620
+India,IND,4493080
+Indonesia,IDN,5045714
+Iran,IRN,3919268
+Iraq,IRQ,1156524
+Ireland,IRL,715716
+Israel,ISR,826436
+Italy,ITA,2899258
+Jamaica,JAM,34962
+Japan,JPN,7993489
+Jordan,JOR,377506
+Kenya,KEN,407506
+Kiribati,KIR,3859
+Kuwait,KWT,750690
+Latvia,LVA,94935
+Lebanon,LBN,148807
+Liberia,LBR,121050
+Libya,LBY,324250
+Lithuania,LTU,149227
+Macao,MAC,72126
+Madagascar,MDG,123526
+Malaysia,MYS,2031675
+Maldives,MDV,43134
+Malta,MLT,32377
+Marshall Islands,MHL,3674
+Mauritania,MRT,59287
+Mauritius,MUS,104971
+Mexico,MEX,3725463
+Micronesia (country),FSM,3895
+Monaco,MCO,3412
+Montenegro,MNE,32557
+Morocco,MAR,863555
+Mozambique,MOZ,132612
+Myanmar,MMR,1373018
+Namibia,NAM,114222
+Nauru,NRU,527
+Netherlands,NLD,2571398
+New Caledonia,NCL,22995
+New Zealand,NZL,525630
+Nicaragua,NIC,299480
+Nigeria,NGA,5961750
+North Korea,PRK,484700
+Northern Mariana Islands,MNP,5006
+Norway,NOR,499682
+Oman,OMN,93251
+Pakistan,PAK,6412210
+Palau,PLW,1076
+Palestine,PSE,87636
+Panama,PAN,192818
+Papua New Guinea,PNG,267234
+Peru,PER,1543879
+Philippines,PHL,2565766
+Poland,POL,1346905
+Portugal,PRT,1022683
+Puerto Rico,PRI,342306
+Qatar,QAT,103933
+Romania,ROU,310385
+Russia,RUS,5839685
+Saint Kitts and Nevis,KNA,12280
+Saint Lucia,LCA,32882
+Saint Vincent and the Grenadines,VCT,8818
+Samoa,WSM,7000
+Sao Tome and Principe,STP,6571
+Saudi Arabia,SAU,1561618
+Senegal,SEN,485586
+Seychelles,SYC,11730
+Sierra Leone,SLE,96655
+Singapore,SGP,359483
+Sint Maarten (Dutch part),SXM,3263
+Slovenia,SVN,108421
+Solomon Islands,SLB,19842
+Somalia,SOM,237569
+South Africa,ZAF,4465798
+South Korea,KOR,2025772
+Spain,ESP,4709157
+Sri Lanka,LKA,2621606
+Sudan,SDN,1292740
+Suriname,SUR,31300
+Sweden,SWE,164305
+Syria,SYR,1365594
+Tanzania,TZA,386998
+Thailand,THA,3532495
+Togo,TGO,135294
+Tonga,TON,8476
+Trinidad and Tobago,TTO,1745123
+Tunisia,TUN,559235
+Turkey,TUR,5596657
+Turks and Caicos Islands,TCA,2851
+Tuvalu,TUV,554
+Ukraine,UKR,1724509
+United Arab Emirates,ARE,600741
+United Kingdom,GBR,4925590
+United States,USA,37825550
+Uruguay,URY,310379
+Vanuatu,VUT,25443
+Venezuela,VEN,2669998
+Vietnam,VNM,3268227
+Yemen,YEM,887497
